@@ -1,0 +1,5 @@
+{
+  "name": "Modular Dynamic Form Backend",
+  "description": "A robust FastAPI backend using SQLite to store complex JSON form structures with relational mapping and a beautiful instruction manual UI.",
+  "requestFramePermissions": []
+}
